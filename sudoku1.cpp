@@ -32,7 +32,7 @@ int isSudoku(char SUDOKU[9][9],int row,int column)
 	}
 	else
 	{
-		cout << "\nSelected Box is Not Empty!\n\n";
+		cout << "\nSelected Box which is Empty!\n\n";
 		return 1;
 	}
 
