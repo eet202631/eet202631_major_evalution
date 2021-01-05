@@ -71,7 +71,7 @@ int main()
     cout<<endl;
     
     int row, column;
-    cout << "\nSelect The Empty Box row, column: " ;
+    cout << "\nSelect The Empty box row, column: " ;
     cin >> row;
     cin >> column;
     
